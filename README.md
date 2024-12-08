@@ -1,4 +1,4 @@
-This Python script enables you to interact with the Telegram Bot API to test bot functionality, choose a preferred language, and fetch updates in real time.
+Test if your bot works with the Telegram token with this Python script.
 
 ## Features
 
