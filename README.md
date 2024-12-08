@@ -18,7 +18,7 @@ Test if your bot works with the Telegram token with this Python script.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Atalaura48/test-your-telegram-bot.git
+    git clone https://github.com/Turkalypse/test-your-telegram-bot.git
     cd test-your-telegram-bot
     ```
 
@@ -93,4 +93,4 @@ This project is licensed under the MIT License.
 
 ## Repository
 
-You can find the repository here: [GitHub - Atalaura48/test-your-telegram-bot](https://github.com/Atalaura48/test-your-telegram-bot)
+You can find the repository here: [GitHub - Turkalypse/test-your-telegram-bot](https://github.com/Turkalypse/test-your-telegram-bot)
